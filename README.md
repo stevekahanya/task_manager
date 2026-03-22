@@ -1,4 +1,5 @@
-Task Management SystemA modular Python-based productivity application designed to help users track their tasks and monitor their completion progress.
+Task Management System
+A modular Python-based productivity application designed to help users track their tasks and monitor their completion progress.
 This project demonstrates the use of packages, modules, and input validation using Python's datetime and math logic.
  Project StructureTo ensure the package imports work correctly, the project should be organized as follows:Plaintext.
 ├── main.py                 # Entry point of the application
